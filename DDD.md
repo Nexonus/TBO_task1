@@ -1,4 +1,5 @@
 
+Niniejsze zadania miało na celu przedstawić założenia modelu Domain Driven Design dla fragmentu aplikacji bankowej. Schemat zawarty poniżej obrazuje zależności między agregatami, encjami i obiektami wartości dla dziedziny (bounding context) uwierzytelniania użytkowników. Zilustrowany fragment pokazuje przepływ informacji od utworzenia konta użytkownika, przypisania mu roli, aż po podjęcie się próby zalogowania do serwisu i zarejestrowania daty udanego zalogowania do banku online.
 ![diagram przedstawiający schemat Domain Driven Design dla zadania 01. Tworzenie bezpiecznego oprogramowania - Jan Konarski](DDD_Diagram.png "Diagram")
 
 **Przyjęte założenia / Integracje:**
