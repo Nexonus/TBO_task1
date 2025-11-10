@@ -1,2 +1,2 @@
 
-![alt text](DDD_diagram.png "Diagram")
+![alt text](DDD_Diagram.png "Diagram")
